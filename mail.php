@@ -12,7 +12,7 @@ $message = "
 <table>
 <tr>
 <th>Firstname</th>
-<th>Lastname</th>
+<th>Lastname</th>ujkyuiyiuyiyiuy
 </tr>
 <tr>
 <td>John</td>
